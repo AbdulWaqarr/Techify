@@ -1,0 +1,8 @@
+
+{
+  "name": "TECHIFY E-Commerce",
+  "description": "A luxury, next-gen technology platform featuring a premium black and gold aesthetic, specialized in neural-hardware and performance computing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
